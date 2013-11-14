@@ -4,4 +4,4 @@ graficas:ctes.ipynb
 
 	ipython notebook ctes.ipynb &
 clean:
-	rm -f	*.png
+	rm -f	*.png *.pdf
